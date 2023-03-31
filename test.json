@@ -1,13 +1,5 @@
 {
   "blacklisted":[
-    {"id":"3859360248", "reason":"Operated a WW2 Germany-based Group","alt":"false"},
-     {"id":"9203039", "reason":"Doxxing Users, Grooming, Antisemitism","alt":"false"},
-     {"id":"41886278", "reason":"Neo-Nazism","alt":"false"},
-     {"id":"4027181855", "reason":"Asset Theft","alt":"false"},
-     {"id":"38834813", "reason":"Encouraging the act of Grooming","alt":"false"},
-     {"id":"5030639", "reason":"Encouraging the act of Grooming, Grooming","alt":"false"},
-{"id":"33152782", "reason":"Doxxing","alt":"false"},
-{"id":"75879427", "reason":"Harassing Minors","alt":"false"},
-    {"id":"290841707", "reason":"TEST","alt":"false"},
+    {"id":"290841707", "reason":"TEST","alt":"false"}
     ]
 }
