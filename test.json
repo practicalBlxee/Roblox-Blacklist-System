@@ -1,5 +1,5 @@
 {
   "blacklisted":[
-    {"id":290841707, "reason":"TEST","alt":false}
+    {"id":290841707, "reason":"TEST","alt":true}
     ]
 }
